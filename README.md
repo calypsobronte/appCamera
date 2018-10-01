@@ -7,6 +7,7 @@
   * Slides de la charla [Repo Github][]
   * Repositorio del workshop [Repo Github][]
   * Asi queda la aplicacion
+
     ![appCamera][]
    * Codigo y app desarrollado entorno
         * Kali linux 2018.1
