@@ -21,4 +21,4 @@
 [@pionerasdev]: https://www.meetup.com/PionerasDevelopers/events/254193121/
 [Lizet Jaramillo]: https://twitter.com/LizetJm
 [Repo Github]: https://github.com/ljaramillom/AppCam
-[appCamera]: /appCamera/img/appCamera.jpg
+[appCamera]: ../appCamera/img/appCamera.jpg
